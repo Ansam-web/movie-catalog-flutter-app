@@ -71,21 +71,31 @@ This separation improves maintainability and keeps networking logic independent 
 
 ## Screenshots
 
-# Introduction Screen
+### Introduction Screen
+![Introduction](assets/intro..jfif)
+![Introduction](assets/int..jfif)
 
-# Login Screen
+### Login Screen
+![Login](assets/login.jfif)
 
-# Home Screen
+### Home Screen
+![Home](assets/home.jfif)
 
-# Search Screen
+### Search Screen
+![Search](assets/search.jfif)
+![Search](assets/search11.jfif)
 
-# Movie Details Screen
+### Movie Details Screen
+![Movie Details](assets/details.jfif)
 
-# Favorites Screen
+### Favorites Screen
+![Favorites](assets/fav.jfif)
 
-# Favorite Statistics Screen
+### Favorite Statistics Screen
+![Statistics](assets/favstat.jfif)
 
-# Settings Screen
+### Settings Screen
+![Settings](assets/settings.jfif)
 
 ## Setup Note
 Before running the project, add your own TMDB API key inside MovieService.
