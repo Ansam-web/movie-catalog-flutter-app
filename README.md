@@ -9,6 +9,7 @@ The application supports user authentication using Firebase Authentication, allo
 The app also includes additional screens such as settings, dark mode support, an about page, and a team members page. Overall, the project demonstrates practical use of Flutter, REST API integration, Firebase services, Firestore, asynchronous programming, and layered application architecture.
 
 ---
+
 ## Features
 
 * Splash Screen
@@ -71,39 +72,68 @@ This separation improves maintainability and keeps networking logic independent 
 
 ## Screenshots
 
-### Introduction Screen
-![Introduction](assets/images/intro.jfif)
-![Introduction](assets/images/int.jfif)
+<table>
+<tr>
+<td align="center">
+<b>Introduction Screen 1</b><br>
+<img src="assets/images/intro.jfif" width="180">
+</td>
+<td align="center">
+<b>Introduction Screen 2</b><br>
+<img src="assets/images/int.jfif" width="180">
+</td>
+<td align="center">
+<b>Login Screen</b><br>
+<img src="assets/images/login.jfif" width="180">
+</td>
+</tr>
 
-### Login Screen
-![Login](assets/images/login.jfif)
+<tr>
+<td align="center">
+<b>Home Screen</b><br>
+<img src="assets/images/home.jfif" width="180">
+</td>
+<td align="center">
+<b>Search Screen</b><br>
+<img src="assets/images/search.jfif" width="180">
+</td>
+<td align="center">
+<b>Search Results</b><br>
+<img src="assets/images/search11.jfif" width="180">
+</td>
+</tr>
 
-### Home Screen
-![Home](assets/images/home.jfif)
+<tr>
+<td align="center">
+<b>Movie Details Screen</b><br>
+<img src="assets/images/details.jfif" width="180">
+</td>
+<td align="center">
+<b>Favorites Screen</b><br>
+<img src="assets/images/fav.jfif" width="180">
+</td>
+<td align="center">
+<b>Favorite Statistics Screen</b><br>
+<img src="assets/images/favstat.jfif" width="180">
+</td>
+</tr>
 
-### Search Screen
-![Search](assets/images/search.jfif)
-![Search](assets/images/search11.jfif)
+<tr>
+<td align="center">
+<b>Settings Screen</b><br>
+<img src="assets/images/setting.jfif" width="180">
+</td>
+<td align="center">
+</td>
+<td align="center">
+</td>
+</tr>
+</table>
 
-### Movie Details Screen
-![Movie Details](assets/images/details.jfif)
-
-### Favorites Screen
-![Favorites](assets/images/fav.jfif)
-
-### Favorite Statistics Screen
-![Statistics](assets/images/favstat.jfif)
-
-### Settings Screen
-![Settings](assets/images/setting.jfif)
+---
 
 ## Setup Note
+
 Before running the project, add your own TMDB API key inside MovieService.
 
 If Firebase configuration files are not included in the repository, add your own Firebase setup files before running the application.
-
-
-
-
-
----
