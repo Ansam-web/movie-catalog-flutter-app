@@ -136,4 +136,4 @@ This separation improves maintainability and keeps networking logic independent 
 
 Before running the project, add your own TMDB API key inside MovieService.
 
-If Firebase configuration files are not included in the repository, add your own Firebase setup files before running the application.
+Add your own Firebase setup files before running the application.
